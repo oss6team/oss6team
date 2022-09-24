@@ -13,14 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=6D6CFF&height=130&section=header&fontSize=90)
 
 <div align="center">
 <br/>
-  <h3> 💻 OPEN SOURCE SOFTWARE 💻 </h3> <hr/><br/>
-  Member : [jeseung](https://github.com/Yu-JeSeung), [sohyeon](https://github.com/nownuu), [jongmin](https://github.com/Limjaymin)
+  
+  ### 💻 OPEN SOURCE SOFTWARE 💻
+  
+  <hr/><br/>
+  
+ #### 🌈 Member 🌈
+  
+  [Jeseung][jeseung_git], [Sohyeon][sohyeon_git], [Jongmin][jongmin_git]
+  
+  [jeseung_git]: http://github.com/Yu-JeSeung "jeseung_git"
+  [sohyeon_git]: https://github.com/nownuu "sohyeon_git"
+  [jongmin_git]: https://github.com/Limjaymin "jongmin_git"
+  
   <br/><br/>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=6D6CFF&height=130&section=footer&fontSize=90)
-
-
