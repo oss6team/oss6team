@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 <br/>
   <h3> 💻 OPEN SOURCE SOFTWARE 💻 </h3> <hr/><br/>
-  Member : 
+  Member : [jeseung](https://github.com/Yu-JeSeung), [sohyeon](https://github.com/nownuu), [jongmin](https://github.com/Limjaymin)
   <br/><br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=6D6CFF&height=130&section=footer&fontSize=90)
