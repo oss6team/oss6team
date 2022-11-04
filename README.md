@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   
  #### 🌈 Member 🌈
   
+  #### Department of Computer SoftWare
+  
   [Jeseung][jeseung_git], [Sohyeon][sohyeon_git], [Jongmin][jongmin_git]
   
   [jeseung_git]: http://github.com/Yu-JeSeung "jeseung_git"
